@@ -1,101 +1,102 @@
-🎧 StellarLauncher – Music Downloader
+# 🎧 **StellarLauncher – Music Downloader**
 
-Um downloader de músicas leve, rápido e atualizado — desenvolvido pela BRAAR.
+---
 
-O StellarLauncher é um aplicativo moderno para baixar áudio do YouTube no formato MP3, oferecendo velocidade, simplicidade e uma interface limpa.
-Seu foco é permitir que qualquer usuário baixe músicas em alta qualidade sem complicações, com atualizações diretas via GitHub Releases.
+> **📸 Insira aqui a imagem de apresentação (banner/capa do app)**
 
-🚀 Recursos Principais
+---
 
-🎶 Download de áudio do YouTube em MP3 (via yt-dlp)
+## 🪐 **Descrição Geral**
 
-📂 Configuração da pasta de destino
+O **StellarLauncher** é um aplicativo moderno e leve para baixar áudio do YouTube em alta qualidade (formato MP3), oferecendo uma experiência simples, limpa e eficiente. Desenvolvido pela **BRAAR**, ele traz download rápido, conversão automática, pasta configurável e atualizações diretas via GitHub.
 
-🔄 Atualização automática (GitHub Releases)
+---
 
-🖥️ Terminal com identidade própria do aplicativo
+## 🚀 **Recursos Principais**
 
-🤖 Conversão automática com FFmpeg
+* 🎶 Download de áudio do YouTube em MP3 (yt-dlp)
+* 📂 Escolha e salvamento da pasta de destino
+* 🔄 Atualização automática via Releases
+* 🖥️ Terminal com identidade própria
+* 🤖 Conversão automática usando FFmpeg
+* 🔕 Interface limpa (sem debug, sem spam)
+* ⚡ Leve e rápido
+* 🪟 Compatível com Windows (versão .exe incluída)
 
-🔕 Interface limpa (sem mensagens de debug)
+---
 
-⚡ Leve, rápido e simples de usar
+## 🆕 **Versão Atual**
 
-🪟 Compatível com Windows (versão .exe incluída)
+### 📌 **v1.0.0 — “Aurora Inicial”**
 
-🆕 Versão Estável Atual
-📌 v1.0.0 — “Aurora Inicial”
+Primeira versão estável do aplicativo.
 
-Lançamento oficial do StellarLauncher.
+### 📦 Arquivos Inclusos
 
-📦 Arquivos incluídos:
+* `StellarLauncher.exe`
+* `ffmpeg.exe`
+* `icon.ico`
+* Código-fonte
 
+🔗 **Baixe agora:**
+[https://github.com/BRAAR-ORG/stellarlauncher/releases](https://github.com/BRAAR-ORG/stellarlauncher/releases)
+
+---
+
+## 🎨 **Identidade Visual**
+
+O StellarLauncher possui um ícone exclusivo e pode ser totalmente personalizado.
+Se quiser novos ícones, posso gerar em **PNG**, **SVG**, **ICO**, estilo minimalista, neon, futurista ou 3D.
+
+---
+
+## 🛠️ **Instalação**
+
+1. Baixe o arquivo `.zip` na aba Releases.
+2. Extraia em qualquer pasta.
+3. Certifique-se de que `ffmpeg.exe` está na mesma pasta.
+4. Execute:
+
+```
 StellarLauncher.exe
+```
 
-ffmpeg.exe
+---
 
-icon.ico (ícone exclusivo do app)
+## 📂 **Estrutura Recomendada da Pasta**
 
-Código-fonte completo
-
-🔗 Baixe agora:
-https://github.com/BRAAR-ORG/stellarlauncher/releases
-
-🎨 Identidade Visual Atualizada
-
-O aplicativo apresenta um ícone totalmente novo, exclusivo do StellarLauncher — criado para reforçar sua identidade moderna e independente da marca BRAAR.
-
-Se quiser, posso gerar:
-
-Ícones em PNG, SVG, ICO
-
-Temas claro/escuro
-
-Estilos minimalistas, neon, futuristas, 3D etc.
-
-🛠️ Instalação
-
-Acesse a aba Releases
-
-Baixe o arquivo .zip da versão mais recente
-
-Extraia tudo para uma pasta de sua preferência
-
-Deixe ffmpeg.exe na mesma pasta do app
-
-Execute:
-
-StellarLauncher.exe
-
-📂 Estrutura Recomendada
+```
 StellarLauncher/
 │
 ├── StellarLauncher.exe
 ├── ffmpeg.exe
 ├── icon.ico
 └── config.txt   ← gerado automaticamente
+```
 
-🔧 Requisitos
+---
 
-Windows 10 ou 11
+## 🔧 **Requisitos**
 
-Conexão com a internet
+* Windows 10/11
+* Internet ativa
+* FFmpeg incluso
 
-FFmpeg (já incluso no pacote)
+---
 
-👨‍💻 Desenvolvido por BRAAR
+## 👨‍💻 **Desenvolvido por BRAAR**
 
 Organização oficial:
-https://github.com/BRAAR-ORG
+[https://github.com/BRAAR-ORG](https://github.com/BRAAR-ORG)
 
-💬 Suporte & Feedback
+---
 
-Abra uma Issue no repositório para:
-✔ Dúvidas
-✔ Sugestões
-✔ Relatar bugs
-✔ Pedir novos recursos
+## 💬 **Suporte**
 
-📄 Licença
+Use a aba **Issues** para dúvidas, erros ou sugestões.
 
-Código liberado para uso pessoal, modificação e estudo.
+---
+
+## 📄 **Licença**
+
+Código liberado para uso pessoal e modificação.
