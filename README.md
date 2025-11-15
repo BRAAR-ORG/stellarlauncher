@@ -1,31 +1,32 @@
-StellarLauncher — Music Downloader
-Desenvolvido por BRAAR
+🎧 StellarLauncher – Music Downloader
 
-StellarLauncher é um downloader de músicas moderno, leve e extremamente rápido, criado para simplificar o processo de baixar áudio do YouTube em alta qualidade.
-Com uma interface minimalista baseada em terminal, o aplicativo oferece desempenho instantâneo, atualização automática e uma identidade visual própria — tudo isso dentro de um pacote compacto e funcional.
+Um downloader de músicas leve, rápido e atualizado — desenvolvido pela BRAAR.
 
-🌟 Destaques do Aplicativo
+O StellarLauncher é um aplicativo moderno para baixar áudio do YouTube no formato MP3, oferecendo velocidade, simplicidade e uma interface limpa.
+Seu foco é permitir que qualquer usuário baixe músicas em alta qualidade sem complicações, com atualizações diretas via GitHub Releases.
 
-🎶 Download de áudio do YouTube em MP3 (com qualidade premium)
+🚀 Recursos Principais
 
-⚡ Interface rápida e limpa, sem mensagens de debug
+🎶 Download de áudio do YouTube em MP3 (via yt-dlp)
 
-📂 Escolha e salve a pasta de destino
+📂 Configuração da pasta de destino
 
-🔄 Atualização automática inteligente (via GitHub Releases)
+🔄 Atualização automática (GitHub Releases)
 
-🖥️ Terminal personalizado com nome do aplicativo
+🖥️ Terminal com identidade própria do aplicativo
 
-🎨 Ícone exclusivo do StellarLauncher
+🤖 Conversão automática com FFmpeg
 
-🤖 Conversão automática com FFmpeg integrado
+🔕 Interface limpa (sem mensagens de debug)
 
-🪟 Compatível com Windows (versão .exe pronta para uso)
+⚡ Leve, rápido e simples de usar
 
-🚀 Última Versão
+🪟 Compatível com Windows (versão .exe incluída)
+
+🆕 Versão Estável Atual
 📌 v1.0.0 — “Aurora Inicial”
 
-Primeira versão oficial do StellarLauncher.
+Lançamento oficial do StellarLauncher.
 
 📦 Arquivos incluídos:
 
@@ -33,70 +34,68 @@ StellarLauncher.exe
 
 ffmpeg.exe
 
-icon.ico (ícone oficial da aplicação)
-
-Arquivos de configuração gerados automaticamente
+icon.ico (ícone exclusivo do app)
 
 Código-fonte completo
 
-🔗 Baixar Release:
+🔗 Baixe agora:
 https://github.com/BRAAR-ORG/stellarlauncher/releases
 
-🎨 Identidade Visual
+🎨 Identidade Visual Atualizada
 
-O StellarLauncher introduz uma nova identidade visual independente da BRAAR, com:
+O aplicativo apresenta um ícone totalmente novo, exclusivo do StellarLauncher — criado para reforçar sua identidade moderna e independente da marca BRAAR.
 
-Ícone exclusivo
+Se quiser, posso gerar:
 
-Padrão de cores próprio
+Ícones em PNG, SVG, ICO
 
-Nome estilizado
+Temas claro/escuro
 
-Organização clara para instaladores e Releases
-
-Se quiser, posso criar um ícone novo (SVG, PNG ou ICO) totalmente personalizado para combinar com o projeto.
+Estilos minimalistas, neon, futuristas, 3D etc.
 
 🛠️ Instalação
 
-Acesse a aba Releases e baixe o arquivo .zip.
+Acesse a aba Releases
 
-Extraia tudo em uma pasta de sua preferência.
+Baixe o arquivo .zip da versão mais recente
 
-Certifique-se de que ffmpeg.exe está na mesma pasta do programa.
+Extraia tudo para uma pasta de sua preferência
 
-Execute o aplicativo:
+Deixe ffmpeg.exe na mesma pasta do app
+
+Execute:
 
 StellarLauncher.exe
 
-📂 Estrutura Recomendada da Pasta
+📂 Estrutura Recomendada
 StellarLauncher/
 │
 ├── StellarLauncher.exe
 ├── ffmpeg.exe
 ├── icon.ico
-└── config.txt     (gerado automaticamente)
+└── config.txt   ← gerado automaticamente
 
 🔧 Requisitos
 
-Windows 10 ou Windows 11
+Windows 10 ou 11
 
 Conexão com a internet
 
-FFmpeg (já incluído)
+FFmpeg (já incluso no pacote)
 
 👨‍💻 Desenvolvido por BRAAR
 
 Organização oficial:
 https://github.com/BRAAR-ORG
 
-O StellarLauncher é mantido pela equipe de desenvolvimento da BRAAR, focada em projetos leves, eficientes e de código aberto.
+💬 Suporte & Feedback
 
-💬 Suporte
-
-Problemas, bugs ou sugestões? Utilize a aba Issues:
-https://github.com/BRAAR-ORG/stellarlauncher/issues
+Abra uma Issue no repositório para:
+✔ Dúvidas
+✔ Sugestões
+✔ Relatar bugs
+✔ Pedir novos recursos
 
 📄 Licença
 
-Uso pessoal e modificação permitidos.
-Se desejar, posso aplicar uma licença profissional (MIT, GPL, Apache, etc.)
+Código liberado para uso pessoal, modificação e estudo.
