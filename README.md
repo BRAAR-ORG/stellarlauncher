@@ -1,59 +1,102 @@
-# BRAAR MUSIC DOWNLOAD 🎵
+StellarLauncher — Music Downloader
+Desenvolvido por BRAAR
 
-## Visão Geral  
-**BRAAR MUSIC DOWNLOAD** é o aplicativo oficial da BRAAR para baixar músicas do YouTube em MP3 com alta qualidade, interface elegante em terminal e sistema automático de atualização via GitHub.
+StellarLauncher é um downloader de músicas moderno, leve e extremamente rápido, criado para simplificar o processo de baixar áudio do YouTube em alta qualidade.
+Com uma interface minimalista baseada em terminal, o aplicativo oferece desempenho instantâneo, atualização automática e uma identidade visual própria — tudo isso dentro de um pacote compacto e funcional.
 
----
+🌟 Destaques do Aplicativo
 
-## 🆕 Destaques da Versão v1.0.0  
-- Download de música individual (uma faixa por vez)  
-- Conversão automática para MP3 (192 kbps)  
-- Interface em terminal com logo ASCII e cores  
-- Escolha de pasta de download + gravação automática  
-- Sistema de atualização automática baseado em tags GitHub (v1.x.x)  
-- Terminal próprio com título personalizado (“BRAAR MUSIC DOWNLOAD”)  
-- Silenciamento total dos logs do yt-dlp (sem avisos indesejados)  
+🎶 Download de áudio do YouTube em MP3 (com qualidade premium)
 
----
+⚡ Interface rápida e limpa, sem mensagens de debug
 
-## 📁 Arquivos da Release  
-| Arquivo                        | Descrição                                  |
-|------------------------------|---------------------------------------------|
-| `BRAAR MUSIC DOWNLOAD.exe`   | Aplicativo principal executável             |
-| `ffmpeg.exe`                 | Utilitário de conversão de áudio (opcional) |
-| `venil.ico`                  | Ícone oficial                               |
-| `README.md`                  | Este mesmo documento                        |
+📂 Escolha e salve a pasta de destino
 
----
+🔄 Atualização automática inteligente (via GitHub Releases)
 
-## 📦 Requisitos de Sistema  
-- Windows 10 ou superior (64 bits recomendado)  
-- Conexão com a internet para download de músicas  
-- Caso `ffmpeg.exe` não esteja incluido, o áudio ainda pode ser extraído se o sistema suportar — mas é recomendável usar o pacote completo.
+🖥️ Terminal personalizado com nome do aplicativo
 
----
+🎨 Ícone exclusivo do StellarLauncher
 
-## 🧭 Como Usar  
-1. Baixe a versão mais recente em **Releases**.  
-2. Extraia todos os arquivos em uma pasta.  
-3. Execute `BRAAR MUSIC DOWNLOAD.exe`.  
-4. Selecione (ou confirme) a pasta de download onde as músicas serão salvas.  
-5. Cole o link do vídeo do YouTube e aguarde o download e conversão.  
-6. O MP3 será salvo na pasta escolhida.  
+🤖 Conversão automática com FFmpeg integrado
 
+🪟 Compatível com Windows (versão .exe pronta para uso)
 
----
+🚀 Última Versão
+📌 v1.0.0 — “Aurora Inicial”
 
-<img width="1920" height="1080" alt="BRAAR MUSIC DOWNLOAD" src="https://github.com/user-attachments/assets/48c7bf8f-ab23-45bc-b83c-21fb85c4c835" />
+Primeira versão oficial do StellarLauncher.
 
----
+📦 Arquivos incluídos:
 
----
+StellarLauncher.exe
 
-## 📄 Licença  
-Este projeto está sob a Licença MIT — veja o arquivo `LICENSE` para mais detalhes.
+ffmpeg.exe
 
-© 2025 BRAAR Corporation. Todos os direitos reservados.
+icon.ico (ícone oficial da aplicação)
 
----
+Arquivos de configuração gerados automaticamente
 
+Código-fonte completo
+
+🔗 Baixar Release:
+https://github.com/BRAAR-ORG/stellarlauncher/releases
+
+🎨 Identidade Visual
+
+O StellarLauncher introduz uma nova identidade visual independente da BRAAR, com:
+
+Ícone exclusivo
+
+Padrão de cores próprio
+
+Nome estilizado
+
+Organização clara para instaladores e Releases
+
+Se quiser, posso criar um ícone novo (SVG, PNG ou ICO) totalmente personalizado para combinar com o projeto.
+
+🛠️ Instalação
+
+Acesse a aba Releases e baixe o arquivo .zip.
+
+Extraia tudo em uma pasta de sua preferência.
+
+Certifique-se de que ffmpeg.exe está na mesma pasta do programa.
+
+Execute o aplicativo:
+
+StellarLauncher.exe
+
+📂 Estrutura Recomendada da Pasta
+StellarLauncher/
+│
+├── StellarLauncher.exe
+├── ffmpeg.exe
+├── icon.ico
+└── config.txt     (gerado automaticamente)
+
+🔧 Requisitos
+
+Windows 10 ou Windows 11
+
+Conexão com a internet
+
+FFmpeg (já incluído)
+
+👨‍💻 Desenvolvido por BRAAR
+
+Organização oficial:
+https://github.com/BRAAR-ORG
+
+O StellarLauncher é mantido pela equipe de desenvolvimento da BRAAR, focada em projetos leves, eficientes e de código aberto.
+
+💬 Suporte
+
+Problemas, bugs ou sugestões? Utilize a aba Issues:
+https://github.com/BRAAR-ORG/stellarlauncher/issues
+
+📄 Licença
+
+Uso pessoal e modificação permitidos.
+Se desejar, posso aplicar uma licença profissional (MIT, GPL, Apache, etc.)
